@@ -1,11 +1,14 @@
 # 👋 Hi, I’m @kevlu8
 
-<div>
-  <br>
-  <a>
-    src="https://img.shields.io/badge/kevlu8-blue?style=for-the-badge&logo=devdotto"
+<h1>
+  <a href="https://github.com/pi-guy-in-the-sky">
+    <img
+      width="240"
+      alt="kevlu8"
+      src="https://img.shields.io/badge/kevlu8-blue?style=for-the-badge&logo=devdotto"
+    />
   </a>
-</div>
+</h1>
 
 I'm a YouTuber - [kevlu8](https://www.youtube.com/kevlu8)
 
