@@ -1,5 +1,12 @@
 # 👋 Hi, I’m @kevlu8
 
+<div>
+  <br>
+  <a>
+    src="https://img.shields.io/badge/kevlu8-blue?style=for-the-badge&logo=devdotto"
+  </a>
+</div>
+
 I'm a YouTuber - [kevlu8](https://www.youtube.com/kevlu8)
 
 I'm learning C++ and working on [something](https://www.github.com/kevlu8/Xytharis)
