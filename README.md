@@ -20,4 +20,4 @@ I also know Lua, Python, R, and Processing
 
 My best program: [Reddit to Google Drive](https://www.github.com/kevlu8/Reddit-to-Google-Drive)
 
-[![kevlu8's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlu8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![kevlu8's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevlu8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
