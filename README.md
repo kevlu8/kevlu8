@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @kevlu8
 
-![Views](https://komarev.com/ghpvc/?username=Luid32&color=blue)
+![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
 <h1>
-  <a href="https://github.com/pi-guy-in-the-sky">
+  <a href="https://github.com/kevlu8">
     <img
       width="240"
       alt="kevlu8"
