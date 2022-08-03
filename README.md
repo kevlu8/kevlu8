@@ -14,7 +14,7 @@
 
 I'm a YouTuber - [kevlu8](https://www.youtube.com/kevlu8)
 
-I'm learning C++ and working on [something](https://www.github.com/kevlu8/Xytharis)
+I'm learning C++ and working on [something](https://www.github.com/kevlu8/PZCoin)
 
 I also know Lua, Python, a bit of R, a bit of JS, and Processing!
 
