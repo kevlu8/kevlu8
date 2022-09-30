@@ -2,6 +2,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
+![ANIME](https://i.imgur.com/eBB0kKG.jpeg)
+
 <h1>
   <a href="https://github.com/kevlu8">
     <img
