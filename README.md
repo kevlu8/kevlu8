@@ -16,8 +16,8 @@ I'm Kevin Lu, a 15 year old developer.
 
 I know C, C++, Python, JS, and Lua.
 
-Some of my best projects: [PZOJ](https://github.com/sireButItsUnique/PZOJ), [PZChessBot](https://github.com/kevlu8/PZChessBot)
+Some of my best projects: [PZOJ](https://github.com/PZOJ/PZOJ), [PZChessBot](https://github.com/kevlu8/PZChessBot), [CPCC](https://github.com/kevlu8/CPCC)
 
-In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8) and [Valorant](https://tracker.gg/valorant/profile/riot/fo%C3%B8d%20Rimuru%23fo%C3%B8d/overview)
+In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8) and doing [competitive programming](https://dmoj.ca/user/kevlu8)
 
 Add me on Discord! @kevlu8#5240
