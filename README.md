@@ -12,7 +12,7 @@
   </a>
 </h1>
 
-![banner](https://i.imgur.com/LpQMdty.png)
+![banner](https://i.imgur.com/ZKDm1EO.png)
 
 I'm Kevin Lu, a 15 year old developer from Edmonton, Canada.
 
