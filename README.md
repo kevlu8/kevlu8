@@ -27,3 +27,18 @@ I won group 1 on the 2023 Canadian Computing Competition Junior division, with a
 I received top 25% on the 2024 Canadian Computing Competition Senior division, with a score of 40/75.
 
 Add me on Discord! @kevlu8
+
+<details>
+  <summary>Donate!</summary>
+  
+  If for whatever reason you want to send me money, here are the places you may do so:
+  
+  - BTC Address (preferred): 31pma4U314hJHSxXBECWxYFPBgL7n9BoCC
+    
+  - Ethereum: 0x1e6d504dc37c7925f9d937Fbba9eed5313b0f926
+
+  - Ethereum Classic: 0x4f4cf965270a0EeeFA0A52e92b4E5Bc8884D645c
+  
+  - YouTube Membership: https://www.youtube.com/kevlu8
+  
+</details>
