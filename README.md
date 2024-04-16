@@ -22,9 +22,11 @@ Some of my best projects: [PZOJ](https://github.com/PZOJ/PZOJ), [PZChessBot](htt
 
 In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), doing [competitive programming](https://dmoj.ca/user/kevlu8), watching [anime](https://myanimelist.net/animelist/kevlu8), and making [YouTube videos](https://youtube.com/kevlu8).
 
+I received distinction (top 25%) on the 2022 Canadian Computing Competition Junior division, with a score of 57/75.
+
 I won group 1 on the 2023 Canadian Computing Competition Junior division, with a score of 75/75!
 
-I received top 25% on the 2024 Canadian Computing Competition Senior division, with a score of 40/75.
+I received honor roll (top ~5%) on the 2024 Canadian Computing Competition Senior division, with a score of 40/75.
 
 Add me on Discord! @kevlu8
 
