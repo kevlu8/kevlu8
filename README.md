@@ -2,18 +2,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
-<h1>
-  <a href="https://github.com/kevlu8">
-    <img
-      width="240"
-      alt="kevlu8"
-      src="https://img.shields.io/badge/kevlu8-blue?style=for-the-badge&logo=devdotto"
-    />
-  </a>
-</h1>
-
-![banner](https://i.imgur.com/ZKDm1EO.png)
-
 I'm Kevin Lu, a 16 year old developer from Arcadia, Los Angeles County, United States.
 
 I know C, C++, Python, JS, Lua, and Intel Assembly.
