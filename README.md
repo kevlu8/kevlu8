@@ -2,7 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
-I'm Kevin Lu, a 16 year old developer from Arcadia, Los Angeles County, United States.
+I'm Kevin Lu, a 17 year old developer from Arcadia, Los Angeles County, United States.
 
 I know C, C++, Python, JS, Lua, and Intel Assembly.
 
