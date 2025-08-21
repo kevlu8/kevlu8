@@ -6,7 +6,7 @@ I'm Kevin Lu, a 17 year old developer from Arcadia, Los Angeles County, United S
 
 I know C, C++, Python, JS, Lua, and Intel Assembly.
 
-Some of my best projects: [PZOJ](https://github.com/PZOJ/PZOJ), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3000-rated chess engine from scratch.
+Some of my best projects: [PZOJ](https://github.com/PZOJ/PZOJ), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3400-rated chess engine from scratch.
 
 In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), doing [competitive programming](https://dmoj.ca/user/kevlu8), watching [anime](https://myanimelist.net/animelist/kevlu8), and making [YouTube videos](https://youtube.com/kevlu8).
 
