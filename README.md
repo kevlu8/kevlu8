@@ -8,7 +8,7 @@ I know C, C++, Python, JS, Lua, and Intel Assembly.
 
 Some of my best projects: [PZOJ](https://github.com/PZOJ/PZOJ), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3400-rated chess engine from scratch.
 
-In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), doing [competitive programming](https://dmoj.ca/user/kevlu8), watching [anime](https://myanimelist.net/animelist/kevlu8), and making [YouTube videos](https://youtube.com/kevlu8).
+In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), doing [competitive programming](https://dmoj.ca/user/kevlu8), listening to [music](https://open.spotify.com/playlist/1MDrLIsSs2ucCiVwX99rlW?si=ece07f5715e848d6), and listening to philosophical debates.
 
 I speak: English/Mandarin (native), French (B2), Cantonese (A1), and I am learning Japanese and Russian.
 
