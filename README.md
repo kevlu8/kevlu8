@@ -6,11 +6,9 @@ I'm Kevin Lu, a 18 year old developer from Los Angeles County, United States.
 
 I know C, C++, Python, JS, Lua, and Intel Assembly.
 
-Some of my best projects: [PZOJ](https://github.com/PZOJ/PZOJ), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3600-rated chess engine from scratch.
+Some of my best projects: [PZOJ](https://github.com/pzoj/pzoj-contest), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3600-rated chess engine from scratch.
 
 In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), doing [competitive programming](https://dmoj.ca/user/kevlu8), listening to [music](https://open.spotify.com/playlist/1MDrLIsSs2ucCiVwX99rlW?si=ece07f5715e848d6), and listening to philosophical debates.
-
-I speak: English/Mandarin (native), French (B2), Cantonese (A1), and I am learning Japanese and Russian.
 
 I received distinction (top 25%) on the 2022 Canadian Computing Competition Junior division, with a score of 57/75.
 
@@ -19,6 +17,8 @@ I won group 1 on the 2023 Canadian Computing Competition Junior division, with a
 I received honor roll (top ~5%) on the 2024 Canadian Computing Competition Senior division, with a score of 40/75.
 
 I received distinction (top 25%) on the 2025 Canadian Computing Competition Senior division, with a score of 55/75.
+
+I received group 2 (#35 world) on the 2026 Canadian Computing Competition Senior division, with a score of 49/75.
 
 Add me on Discord! @kevlu8
 
