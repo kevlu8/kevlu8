@@ -33,6 +33,6 @@ Add me on Discord! @kevlu8
 
   - Ethereum Classic: 0x4f4cf965270a0EeeFA0A52e92b4E5Bc8884D645c
   
-  - YouTube Membership: https://www.youtube.com/kevlu8
+  - Ko-fi: https://ko-fi.com/kevlu8
   
 </details>
