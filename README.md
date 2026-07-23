@@ -2,13 +2,13 @@
 
 ![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
-I'm Kevin Lu, a 18 year old developer from Los Angeles County, United States.
-
-I know C, C++, Python, JS, Lua, and Intel Assembly.
+I'm Kevin Lu, a 18 year old computer science student at University of California, Los Angeles.
 
 Some of my best projects: [PZOJ](https://github.com/pzoj/pzoj-contest), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3700-rated chess engine from scratch.
 
-In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), doing [competitive programming](https://dmoj.ca/user/kevlu8), listening to [music](https://open.spotify.com/playlist/1MDrLIsSs2ucCiVwX99rlW?si=ece07f5715e848d6), and listening to philosophical debates.
+In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), listening to [music](https://open.spotify.com/playlist/1MDrLIsSs2ucCiVwX99rlW?si=ece07f5715e848d6), and going out on bike rides. I also write sometimes on my [blog](https://int0x80.ca).
+
+Languages I'm comfortable with (in order from most to least familiar): C/C++, Intel x86 Assembly, JavaScript, Python
 
 I received distinction (top 25%) on the 2022 Canadian Computing Competition Junior division, with a score of 57/75.
 
@@ -20,18 +20,12 @@ I received distinction (top 25%) on the 2025 Canadian Computing Competition Seni
 
 I received group 2 (#35 world) on the 2026 Canadian Computing Competition Senior division, with a score of 49/75.
 
-Add me on Discord! @kevlu8
-
 <details>
   <summary>Donate!</summary>
   
   If for whatever reason you want to send me money, here are the places you may do so:
   
-  - BTC Address (preferred): 31pma4U314hJHSxXBECWxYFPBgL7n9BoCC
-    
-  - Ethereum: 0x1e6d504dc37c7925f9d937Fbba9eed5313b0f926
-
-  - Ethereum Classic: 0x4f4cf965270a0EeeFA0A52e92b4E5Bc8884D645c
+  - BTC Address: 31pma4U314hJHSxXBECWxYFPBgL7n9BoCC
   
   - Ko-fi: https://ko-fi.com/kevlu8
   
