@@ -25,8 +25,8 @@ I received group 2 (#35 world) on the 2026 Canadian Computing Competition Senior
   
   If for whatever reason you want to send me money, here are the places you may do so:
   
-  - BTC Address: 31pma4U314hJHSxXBECWxYFPBgL7n9BoCC
-  
+  - BTC: 31pma4U314hJHSxXBECWxYFPBgL7n9BoCC
+  - Monero: 48kbRWJiiwBfc7vbAW9GTu49bp4Suj9RFQQxUvY2mnRNa9dS4LWm6ZWdu1eHzQnTtK6bUcskw5NdKUxgQuiTpLr3KCZLyTA
   - Ko-fi: https://ko-fi.com/kevlu8
   
 </details>
