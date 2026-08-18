@@ -2,7 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
-I'm Kevin Lu, a 18 year old computer science student at University of California, Los Angeles.
+I'm Kevin Lu, a 18 year old computer science student at the University of California, Los Angeles.
 
 Some of my best projects: [PZOJ](https://github.com/pzoj/pzoj-contest), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3700-rated chess engine from scratch.
 
