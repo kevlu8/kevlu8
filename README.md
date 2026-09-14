@@ -1,24 +1,34 @@
-# 👋 Hi, I’m @kevlu8
+# 👋 Hi, I’m Kevin
 
 ![Views](https://komarev.com/ghpvc/?username=kevlu8&color=blue)
 
-I'm Kevin Lu, a 18 year old computer science student at the University of California, Los Angeles.
+I'm a computer science student at UCLA currently fixated on chess engines, systems programming, and neural networks. I build things that are fast, low-level, and probably more complicated than they need to be, while also coming up with terrible names for them.
 
-Some of my best projects: [PZOJ](https://github.com/pzoj/pzoj-contest), an online judge for competitive programming; and [PZChessBot](https://github.com/kevlu8/PZChessBot), a 3700-rated chess engine from scratch.
+## Projects
 
-In my free time, I enjoy playing [chess](https://lichess.org/@/kevlu8), listening to [music](https://open.spotify.com/playlist/1MDrLIsSs2ucCiVwX99rlW?si=ece07f5715e848d6), and going out on bike rides. I also write sometimes on my [blog](https://int0x80.ca).
+### [PZChessBot](https://github.com/kevlu8/PZChessBot)
 
-Languages I'm comfortable with (in order from most to least familiar): C/C++, Intel x86 Assembly, JavaScript, Python
+PZChessBot is a C++ chess engine written completely from scratch, currently rated around 3720 CCRL Blitz and playing at tournaments like the [Top Chess Engine Championship](https://tcec-chess.com) and the [Chess.com Computer Chess Championship](https://www.chess.com/computer-chess-championship).
 
-I received distinction (top 25%) on the 2022 Canadian Computing Competition Junior division, with a score of 57/75.
+PZChessBot uses advanced alpha-beta search with an Efficiently Updatable Neural Network (NNUE) trained entirely on self-play data. It also supports Syzygy tablebases, multithreading up to 512 threads, and transposition tables up to 256 GB.
 
-I won group 1 on the 2023 Canadian Computing Competition Junior division, with a score of 75/75!
+PZChessBot was developed by me, who wrote search, NNUE inference, and trained over 50 iterations of neural networks for evaluation; and [William Ma](https://github.com/wdotmathree), who wrote move generation, board handling (such as making moves), and SIMD optimization.
 
-I received honor roll (top ~5%) on the 2024 Canadian Computing Competition Senior division, with a score of 40/75.
+### [PZOJ](https://github.com/pzoj/pzoj-contest)
 
-I received distinction (top 25%) on the 2025 Canadian Computing Competition Senior division, with a score of 55/75.
+PZOJ is an online judge and contest platform built for competitive programming.
 
-I received group 2 (#35 world) on the 2026 Canadian Computing Competition Senior division, with a score of 49/75.
+It was started as a hackathon project, and uses Next.js for its frontend, Express.js for its backend, and C++ to run and judge submitted code.
+
+## Interests
+
+Most of my programming is in C++, particularly performance-sensitive applications. I also work with Python, JavaScript, and x86 Intel-flavor assembly.
+
+Outside of programming, I play [chess](https://lichess.org/@/kevlu8), produce and listen to music (hard techno and hardstyle forever!), and write about whatever piques my interest on [int0x80.ca](https://int0x80.ca)
+
+## Competitive Programming
+
+I achieved USACO Gold (2025) and CCC Senior Group 2 (2026). I've also organized several contests of my own and helped test countless contests on Codeforces.
 
 <details>
   <summary>Donate!</summary>
